@@ -1,0 +1,14 @@
+[Unit]
+Description=Mercado Justo Café - Bot de Telegram
+After=network.target
+
+[Service]
+Type=simple
+User=TUUSUARIO
+WorkingDirectory=/home/TUUSUARIO/mercado-justo-cafe/bot
+ExecStart=/home/TUUSUARIO/mercado-justo-cafe/bot/venv/bin/python3 bot.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

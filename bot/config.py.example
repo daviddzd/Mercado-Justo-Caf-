@@ -1,0 +1,8 @@
+# ── Configuración del bot ──────────────────────────────────────────────────
+# Copia este archivo como config.py y reemplaza con tu token real:
+#   cp config.py.example config.py
+#
+# Para obtener un token, habla con @BotFather en Telegram y usa /newbot
+# ⚠️ NUNCA subas config.py a GitHub — solo este .example
+
+TELEGRAM_TOKEN = "TU_TOKEN_DE_BOTFATHER_AQUI"

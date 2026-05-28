@@ -1,0 +1,10 @@
+# Token — NUNCA subir a GitHub
+config.py
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Logs
+*.log
