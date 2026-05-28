@@ -37,9 +37,9 @@ PySpark · ARIMA · Random Forest · PuLP · Plotly · Telegram Bot · Yahoo Fin
 
 ## Equipo
 
-David Pitol Arana
-Daniela Hernandez Carrada
-Rene De la Cruz Escobar
+David Pitol Arana, 
+Daniela Hernandez Carrada, 
+Rene De la Cruz Escobar, 
 Daniel Aldair Montiel Macias
 
 Universidad Nacional Rosario Castellanos
