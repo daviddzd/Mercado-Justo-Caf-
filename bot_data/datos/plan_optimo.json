@@ -1,0 +1,28 @@
+{
+  "plan_hectareas": {
+    "cereza": 8.1669691,
+    "lavado": 38.656987,
+    "organico": 0.0
+  },
+  "ingreso_total": 3580399.2475,
+  "parametros": {
+    "precios_mxn_kg": {
+      "cereza": 22,
+      "lavado": 45,
+      "organico": 75
+    },
+    "rendimiento_kg_ha": {
+      "cereza": 2500,
+      "lavado": 1800,
+      "organico": 1200
+    },
+    "costo_mxn_ha": {
+      "cereza": 18000,
+      "lavado": 35000,
+      "organico": 55000
+    },
+    "max_hectareas": 50,
+    "max_presupuesto": 1500000,
+    "max_almacenamiento": 90000
+  }
+}

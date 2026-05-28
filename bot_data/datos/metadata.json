@@ -1,0 +1,12 @@
+{
+  "fecha_ejecucion": "2026-05-24 04:24",
+  "ultimo_precio_usd_lb": 2.64,
+  "ultimo_precio_fecha": "2026-05-22",
+  "ultimo_tc_usdmxn": 17.297700881958008,
+  "arima_order": "(3, 0, 1)",
+  "arima_seasonal": "(0, 1, 2, 12)",
+  "rf_accuracy": 0.673469387755102,
+  "rf_n_features": 10,
+  "siap_ultimo_anio": 2024,
+  "brecha_ultimo_pct": 64.7008064109547
+}
