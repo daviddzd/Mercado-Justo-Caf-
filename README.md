@@ -35,7 +35,7 @@ PySpark · ARIMA · Random Forest · PuLP · Plotly · Telegram Bot · Yahoo Fin
 3. `bash setup.sh`
 4. `source venv/bin/activate && python3 bot.py`
 
-## quipo
+## Equipo
 
 David Pitol Arana
 Daniela Hernandez Carrada
