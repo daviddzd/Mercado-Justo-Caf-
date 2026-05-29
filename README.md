@@ -43,4 +43,4 @@ Rene De la Cruz Escobar,
 Daniel Aldair Montiel Macias
 
 Universidad Nacional Rosario Castellanos
-Licenciatura en Ciencias de Datos para Negocios — 5° Semestre — 2026-1
+Licenciatura en Ciencias de Datos para Negocios — 5° Semestre — 2026
